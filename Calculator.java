@@ -1,5 +1,5 @@
 Calculator.java:
-Public class Calculator{
+public class Calculator{
 public init add(int a, int b){return a+b:}
 public init subtract(int a, int b){return a-b:}
 public init multiply(int a, int b){return a*b:}
